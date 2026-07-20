@@ -1,0 +1,1 @@
+<%@ Page Language="C#" Inherits="IEILShell.InsuranceAllReport" Debug="true" CodeFile="BusinessLogic/InsuranceReportAllAjax.aspx.cs" %>
