@@ -16,7 +16,7 @@
     <script src="Scripts/GiftCityDaywiseReport.js"></script>
     <script src="Scripts/Insurance_ReportAllAjax.js"></script>
     <link rel="stylesheet" href="Styles/GiftCityDaywiseReport.css">
-    <title>Gift City Daywise Report</title>
+    <title>Gift City Daywise Report - version 2</title>
 </head>
 <body onload="initDoc();"> 
     <!--Loader div-->
